@@ -1,0 +1,3 @@
+# SQL Tuning
+
+The following set of SQL scripts present SQL scripts that attempt to minimize the run time of the given queries. The **populate_data.sql** file creates the necessary schemas and fields, and the remaining scripts present an optimization technique preceding the query. In all circumstnces, there are a series of indexes created. For some queries, there will be indexes that are created from a previous script. 
